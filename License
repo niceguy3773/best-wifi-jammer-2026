@@ -36,13 +36,13 @@ Designed for security researchers and penetration testers, this tool provides co
     ║                    WHY USE THIS WIFI JAMMER?                          ║
     ╚═══════════════════════════════════════════════════════════════════════╝
     
-    • ⚡ MULTIPLE ATTACK TYPES: Deauth, Disassoc, Beacon Flood, Auth Flood, Assoc Flood, Probe Response [citation:1]
-    • 📡 NETWORK SCANNING: Automatic discovery and analysis of nearby access points and clients [citation:1]
-    • 🧠 SOLID ARCHITECTURE: Clean, maintainable code following SOLID principles [citation:1]
-    • 🖥️ WINDOWS OPTIMIZED: Native Windows support with PowerShell integration [citation:1]
-    • 🎨 RICH CLI INTERFACE: Beautiful terminal output with progress bars and tables [citation:1]
-    • 🔧 EASY INSTALLATION: One-command setup with automatic dependency management [citation:1]
-    • 🔄 CROSS-PLATFORM: Works on Windows, Linux, and macOS (limited functionality) [citation:1]
+    • ⚡ MULTIPLE ATTACK TYPES: Deauth, Disassoc, Beacon Flood, Auth Flood, Assoc Flood, Probe Response
+    • 📡 NETWORK SCANNING: Automatic discovery and analysis of nearby access points and clients
+    • 🧠 SOLID ARCHITECTURE: Clean, maintainable code following SOLID principles
+    • 🖥️ WINDOWS OPTIMIZED: Native Windows support with PowerShell integration
+    • 🎨 RICH CLI INTERFACE: Beautiful terminal output with progress bars and tables
+    • 🔧 EASY INSTALLATION: One-command setup with automatic dependency management
+    • 🔄 CROSS-PLATFORM: Works on Windows, Linux, and macOS (limited functionality)
 
     ╔═══════════════════════════════════════════════════════════════════════╗
     ║                         ⚡ CORE FEATURES                              ║
@@ -50,7 +50,7 @@ Designed for security researchers and penetration testers, this tool provides co
     ────────────────────────────────────────────────────────────────────────────
     FEATURE              │ DESCRIPTION
     ────────────────────────────────────────────────────────────────────────────
-    DEAUTH ATTACK        │ Forged deauthentication packets disconnect clients from AP [citation:3]
+    DEAUTH ATTACK        │ Forged deauthentication packets disconnect clients from AP
     DISASSOC ATTACK      │ Disassociation frames force clients to disconnect
     BEACON FLOOD         │ Floods area with fake access point beacons
     AUTH FLOOD           │ Authentication flood overwhelms target AP
@@ -152,7 +152,7 @@ Designed for security researchers and penetration testers, this tool provides co
 
     ⚡ HARDWARE NOTE: Requires wireless card with monitor mode support.
         Not all WiFi adapters support packet injection. Tested with Alfa,
-        TP-Link, and compatible chipsets [citation:8].
+        TP-Link, and compatible chipsets.
 
 ╔═══════════════════════════════════════════════════════════════════════════╗
 ║                                DOWNLOAD                                   ║
